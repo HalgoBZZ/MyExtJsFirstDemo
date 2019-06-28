@@ -82,7 +82,6 @@ Ext.define('MyApp.view.calculator.calculator', {
                             boxLabel: 'Satisfied',
                             name: 'rb', inputValue: '2'
                         },
-                            //…code truncated
                         ]
                     }, {
                         xtype: 'checkboxgroup',
@@ -94,9 +93,7 @@ Ext.define('MyApp.view.calculator.calculator', {
                             name: 'ch',
                             inputValue: '1'
                         },
-                            //…code truncated
                         ]
-
                     },
                     {
                         xtype: 'radiogroup',
@@ -108,7 +105,6 @@ Ext.define('MyApp.view.calculator.calculator', {
                             name: 'recommend',
                             inputValue: '1'
                         },
-                            //…code truncated
                         ],
                         buttons: [{
                             text: 'Submit',
